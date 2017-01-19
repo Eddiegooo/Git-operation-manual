@@ -1,2 +1,2 @@
 # Git-operation-manual
-github git的操作说明
+github git的操作说明（见PDF文档）
